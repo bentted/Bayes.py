@@ -1,6 +1,4 @@
-Here’s the `README.md` file for the `bentted/Bayes.py` repository based on the `BAYES.py` script:
 
----
 
 # Bayesian Search and Rescue
 
@@ -66,4 +64,4 @@ This repository contains a Python-based simulation for a **Bayesian Search and R
 
 ---
 
-Let me know if you need further modifications or additional sections!
+
